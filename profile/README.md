@@ -21,6 +21,6 @@
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
 # Development Information
-Dev: GitHub, AWS, Nothon
-IDLE: Visual Studio Code, InteilJ
-Language: Java, JavaScript, SQL .. 
+Dev: GitHub, AWS, Nothon   
+IDLE: Visual Studio Code, InteilJ   
+Language: Java, JavaScript, SQL ..    
