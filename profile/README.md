@@ -1,7 +1,7 @@
-# AUNAE-WEB-Dev 
+# 1. AUNAE-WEB-Dev 
 강남대학교 아우내 웹 페이지를 개발하는 Organization 입니다.
 
-# Team Info
+# 2. Team Info
 <center>
 	<table>
 		<tbody>
@@ -20,7 +20,7 @@
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-# Development Information
+# 3. Development Information
 Dev: GitHub, AWS, Nothon   
 IDLE: Visual Studio Code, InteilJ   
 Language: Java, JavaScript, SQL ..    
