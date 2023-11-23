@@ -1,5 +1,5 @@
 # 1. AUNAE-WEB-Dev 
-강남대학교 아우내 웹 페이지를 개발하는 Organization 입니다.
+MOJI 서비스를 개발하는 E-MOJI팀 Organization 입니다.
 
 # 2. Team Info
 <center>
@@ -26,3 +26,4 @@
 Dev: GitHub, AWS, Nothon   
 IDLE: Visual Studio Code, InteilJ   
 Language: Java, JavaScript, SQL ..    
+Version control workflows: Git-flow
